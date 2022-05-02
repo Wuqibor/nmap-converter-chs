@@ -15,7 +15,7 @@ pip install python-libnmap XlsxWriter
 pip install -r requirements.txt
 ```
 对于部分中文 Windows10(+) 系统在安装 python-libnmap 库时出现 gbk 编码的读入文件解码问题请参考以下博文执行下载库文件修改再重新打包安装:  
-[解决方案](https://blog.csdn.net/zhangpeterx/article/details/88663052 "https://blog.csdn.net/zhangpeterx/article/details/88663052")
+[https://blog.csdn.net/zhangpeterx/article/details/88663052](https://blog.csdn.net/zhangpeterx/article/details/88663052 "https://blog.csdn.net/zhangpeterx/article/details/88663052")
 
 # 用法
 ```bash
